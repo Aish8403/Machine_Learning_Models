@@ -80,11 +80,11 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 ## 🚀 How to Access the Tutorial
 1️⃣ Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Aish8403/Machine_Learning_Models.git
 ```
 2️⃣ Navigate to the project folder:
 ```bash
-cd <repository-folder>
+cd Machine_learning_Models
 ```
 3️⃣ Launch Jupyter Notebook:
 ```bash
